@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Mohamed Shehaby, a passionate Front-end Web Developer specializing in React and Next.js. With 1 year of hands-on experience in web development, I thrive on creating beautiful and intuitive user interfaces that deliver exceptional user experiences.
+I'm Mohamed Shehaby, a passionate Front-end Web Developer specializing in React and Next.js. With 2 years of hands-on experience in web development, I thrive on creating beautiful and intuitive user interfaces that deliver exceptional user experiences.
 
 ## 💼 Currently Seeking Opportunities
 
